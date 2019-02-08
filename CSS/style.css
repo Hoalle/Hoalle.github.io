@@ -1,0 +1,101 @@
+body{
+    background-image: url("../Img/backgroundpic.png");
+    font-family: "special elite", sans-serif;
+    color: #2d3246;
+}
+
+#menu{
+    margin-top: 5%;
+}
+
+#menu .nav-link{
+    font-size: 135%;
+    color: dimgray;
+}
+
+#retouracc{
+    margin-top: 4%;
+}
+#nom{
+    font-family: "special elite", sans-serif;
+    color: #2d3246;
+    text-decoration: none;
+}
+
+#menu .active{
+    background-color: transparent;
+    color: #2d3246;
+}
+
+.context-dark, .bg-gray-dark, .bg-primary {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #ffffff;
+}
+
+.social-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 23px;
+    font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.social-container .col {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+footer{
+    font-family: "arial";
+position:absolute;
+bottom:0;
+width:100%;
+}
+
+footer #contact{
+    text-align: center;
+}
+
+.roundedImage{
+    overflow:hidden;
+    -webkit-border-radius:100%;
+    -moz-border-radius:100%;
+    border-radius:100%;
+    width:100%;
+    height:100%;
+}
+
+.presentation{
+    font-size: 140%;
+}
+
+.formations{
+    font-size: 120%;
+}
+.titre{
+    font-size: 130%;
+}
+
+.progress-bar{
+    background: #2d3246;
+}
+
+.btn-primary{
+    background: lightgrey;
+    color: black;
+}
+
+.pagetitle{
+    margin-top: 7%;
+    margin-bottom: 7%;
+    text-align: center;
+}
+
+.index{
+    margin-top: 5%;
+}
